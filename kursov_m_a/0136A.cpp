@@ -13,5 +13,3 @@ int main() {
         std::cout << b[i] << " ";
     }
 }
-    
-    
